@@ -1,10 +1,10 @@
-redis-py
-========
+fork of redis-py
+================
 
 The Python interface to the Redis key-value store.
 
-.. image:: https://secure.travis-ci.org/andymccurdy/redis-py.png?branch=master
-        :target: http://travis-ci.org/andymccurdy/redis-py
+.. image:: https://secure.travis-ci.org/katakumpo/redis-py.png?branch=master
+        :target: http://travis-ci.org/katakumpo/redis-py
 
 Installation
 ------------
