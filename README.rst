@@ -4,7 +4,11 @@ fork of redis-py
 The Python interface to the Redis key-value store.
 
 .. image:: https://secure.travis-ci.org/katakumpo/redis-py.png?branch=master
-        :target: http://travis-ci.org/katakumpo/redis-py
+  :target: http://travis-ci.org/katakumpo/redis-py
+
+.. image:: https://coveralls.io/repos/katakumpo/redis-py/badge.png
+  :target: https://coveralls.io/r/katakumpo/redis-py
+
 
 Installation
 ------------
